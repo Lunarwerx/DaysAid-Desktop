@@ -31,3 +31,7 @@ npm-debug.log*
 
 # TypeScript
 *.tsbuildinfo
+
+# Emitted from vite.config.ts by tsc -b (do not commit)
+vite.config.js
+vite.config.d.ts
